@@ -10,3 +10,5 @@ About Lauren McKeen
 
  - From NY
  - Went to Clarkson University
+
+Joe iz 2 qewl 4 scewl
