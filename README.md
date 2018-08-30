@@ -4,6 +4,5 @@ my first repository
 create item list:
 
   - first
-  - second
   - third
 
